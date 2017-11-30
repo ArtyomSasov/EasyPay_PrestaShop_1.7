@@ -1,4 +1,4 @@
-# EasyPay_PrestaShop_1.7
+# EasyPay PrestaShop 1.7
 
 ТРЕБОВАНИЯ:
 1. CMS Prestashop 1.7.X
